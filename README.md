@@ -12,20 +12,20 @@ The objective of this analysis is to assist the Pycity School District by provid
  
 # Report Tables
 ### District Summary
-![District Summary](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/District%20Summary.PNG)
+![District Summary](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/District%20Summary.PNG)
 ### School Summary
-![School Summary](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/High%20and%20Low%20Schools.PNG)
+![School Summary](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/High%20and%20Low%20Schools.PNG)
 ### High and Low Performing Top Five Schools
-![High and Low Performing Top Five Schools](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/High%20and%20Low%20Schools.PNG)
-![High and Low Performing Top Five Schools](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/High%20and%20Low%20Schools%202.PNG)
+![High and Low Performing Top Five Schools](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/High%20and%20Low%20Schools.PNG)
+![High and Low Performing Top Five Schools](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/High%20and%20Low%20Schools%202.PNG)
 ### Math and Reading Scores 
-![Math and Reading Scores](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/Math%20and%20Reading%20Scores%20Grades%209-12.PNG)
+![Math and Reading Scores](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/Math%20and%20Reading%20Scores%20Grades%209-12.PNG)
 ### Scores by School Spending
-![Scores by School Spending](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/Scores%20by%20Spending.PNG)
+![Scores by School Spending](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/Scores%20by%20Spending.PNG)
 ### Scores by School Size
-![Scores by School Size](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/Scores%20by%20School%20Size.PNG)
+![Scores by School Size](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size.PNG)
 ### Scores by School Type
-![Scores by School Type](https://github.com/gracemarshall/PyCitySchools_Challenge/blob/main/Resources/Scores%20by%20School%20Type.PNG)
+![Scores by School Type](https://github.com/gracemarshall/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Type.PNG)
 
 ## PyCitySchools Analysis 
 The analysis shows that the top five high performing schools type are charter school districts with an average overall percent passing score of 91%. and the top five low performing schools are the traditional school districts with an average overall percent passing score of 53%.
